@@ -1,4 +1,4 @@
-# Foo
+# Official Guide by Phoenix create https://hexdocs.pm/phoenix/
 
 To start your Phoenix server:
 
